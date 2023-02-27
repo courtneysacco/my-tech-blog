@@ -56,4 +56,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ![](public/images/dashboard.png)
 
 ## Links
-<a href="
+<a href="https://nameless-bastion-54012.herokuapp.com/" target="_blank">Heroku App</a>
